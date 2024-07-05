@@ -1,0 +1,3 @@
+if game.GameId == 5386086831 then
+  loadstring(game:HttpGet("https://github.com/killsondc/ChairWare/blob/main/West%20Chicago"))()
+end
