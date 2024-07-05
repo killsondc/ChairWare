@@ -4,4 +4,3 @@ elseif game.GameId == 5414554934 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/killsondc/ChairWare/main/Bike%20Race%20Clicker"))()
 
 end
-end
